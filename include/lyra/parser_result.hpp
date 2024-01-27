@@ -27,8 +27,8 @@ inline std::string to_string(parser_result_type v)
 		case parser_result_type::matched: return "matched";
 		case parser_result_type::no_match: return "no_match";
 		case parser_result_type::short_circuit_all: return "short_circuit_all";
+		default: return "?";
 	}
-	return "?";
 }
 
 using result = detail::basic_result<void>;

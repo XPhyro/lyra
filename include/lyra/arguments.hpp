@@ -174,10 +174,10 @@ class arguments : public parser
 		{
 			case any: return parse_any(tokens, style);
 			case sequence: return parse_sequence(tokens, style);
+			default: return parse_result::error(
+								   detail::parse_state(parser_result_type::no_match, tokens),
+								   "Unknown evaluation mode; not one of 'any', or 'sequence'.");
 		}
-		return parse_result::error(
-			detail::parse_state(parser_result_type::no_match, tokens),
-			"Unknown evaluation mode; not one of 'any', or 'sequence'.");
 	}
 
 	// Match in any order, any number of times. Returns an error if nothing
