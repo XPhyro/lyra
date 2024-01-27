@@ -7,10 +7,10 @@
 #ifndef LYRA_DETAIL_CHOICES_HPP
 #define LYRA_DETAIL_CHOICES_HPP
 
-#include "lyra/detail/from_string.hpp"
-#include "lyra/detail/result.hpp"
-#include "lyra/detail/unary_lambda_traits.hpp"
-#include "lyra/parser_result.hpp"
+#include "../parser_result.hpp"
+#include "from_string.hpp"
+#include "result.hpp"
+#include "unary_lambda_traits.hpp"
 #include <initializer_list>
 #include <string>
 #include <type_traits>

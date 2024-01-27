@@ -7,7 +7,7 @@
 #ifndef LYRA_DETAIL_TOKENS_HPP
 #define LYRA_DETAIL_TOKENS_HPP
 
-#include "lyra/option_style.hpp"
+#include "../option_style.hpp"
 
 #include <string>
 #include <vector>

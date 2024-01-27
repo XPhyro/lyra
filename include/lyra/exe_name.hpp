@@ -7,10 +7,10 @@
 #ifndef LYRA_EXE_NAME_HPP
 #define LYRA_EXE_NAME_HPP
 
-#include "lyra/detail/bound.hpp"
-#include "lyra/detail/tokens.hpp"
-#include "lyra/parser.hpp"
-#include "lyra/parser_result.hpp"
+#include "detail/bound.hpp"
+#include "detail/tokens.hpp"
+#include "parser.hpp"
+#include "parser_result.hpp"
 
 namespace lyra {
 

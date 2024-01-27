@@ -6,7 +6,7 @@
 #ifndef LYRA_CLI_PARSER_HPP
 #define LYRA_CLI_PARSER_HPP
 
-#include "lyra/cli.hpp"
+#include "cli.hpp"
 
 namespace lyra {
 

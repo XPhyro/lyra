@@ -7,10 +7,10 @@
 #ifndef LYRA_OPT_HPP
 #define LYRA_OPT_HPP
 
-#include "lyra/detail/print.hpp"
-#include "lyra/detail/trait_utils.hpp"
-#include "lyra/parser.hpp"
-#include "lyra/val.hpp"
+#include "detail/print.hpp"
+#include "detail/trait_utils.hpp"
+#include "parser.hpp"
+#include "val.hpp"
 
 #include <memory>
 #include <string>

@@ -7,7 +7,7 @@
 #ifndef LYRA_DETAIL_FROM_STRING_HPP
 #define LYRA_DETAIL_FROM_STRING_HPP
 
-#include "lyra/detail/trait_utils.hpp"
+#include "trait_utils.hpp"
 
 #include <sstream>
 #include <string>

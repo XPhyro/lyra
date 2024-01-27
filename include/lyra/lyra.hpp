@@ -7,22 +7,22 @@
 #ifndef LYRA_LYRA_HPP
 #define LYRA_LYRA_HPP
 
-#include "lyra/version.hpp"
+#include "version.hpp"
 
-#include "lyra/arg.hpp"
-#include "lyra/arguments.hpp"
-#include "lyra/cli.hpp"
-#include "lyra/cli_parser.hpp"
-#include "lyra/command.hpp"
-#include "lyra/exe_name.hpp"
-#include "lyra/group.hpp"
-#include "lyra/help.hpp"
-#include "lyra/literal.hpp"
-#include "lyra/main.hpp"
-#include "lyra/opt.hpp"
-#include "lyra/option_style.hpp"
-#include "lyra/parser.hpp"
-#include "lyra/parser_result.hpp"
-#include "lyra/val.hpp"
+#include "arg.hpp"
+#include "arguments.hpp"
+#include "cli.hpp"
+#include "cli_parser.hpp"
+#include "command.hpp"
+#include "exe_name.hpp"
+#include "group.hpp"
+#include "help.hpp"
+#include "literal.hpp"
+#include "main.hpp"
+#include "opt.hpp"
+#include "option_style.hpp"
+#include "parser.hpp"
+#include "parser_result.hpp"
+#include "val.hpp"
 
 #endif // LYRA_HPP_INCLUDED

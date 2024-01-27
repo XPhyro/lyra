@@ -7,7 +7,7 @@
 #ifndef LYRA_HELP_HPP
 #define LYRA_HELP_HPP
 
-#include "lyra/opt.hpp"
+#include "opt.hpp"
 
 namespace lyra {
 

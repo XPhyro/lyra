@@ -7,13 +7,13 @@
 #ifndef LYRA_CLI_HPP
 #define LYRA_CLI_HPP
 
-#include "lyra/arguments.hpp"
-#include "lyra/detail/deprecated_parser_customization.hpp"
-#include "lyra/detail/from_string.hpp"
-#include "lyra/detail/print.hpp"
-#include "lyra/exe_name.hpp"
-#include "lyra/group.hpp"
-#include "lyra/option_style.hpp"
+#include "arguments.hpp"
+#include "detail/deprecated_parser_customization.hpp"
+#include "detail/from_string.hpp"
+#include "detail/print.hpp"
+#include "exe_name.hpp"
+#include "group.hpp"
+#include "option_style.hpp"
 
 #include <type_traits>
 

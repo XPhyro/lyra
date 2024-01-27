@@ -6,13 +6,13 @@
 #ifndef LYRA_MAIN_HPP
 #define LYRA_MAIN_HPP
 
-#include "lyra/arg.hpp"
-#include "lyra/args.hpp"
-#include "lyra/cli.hpp"
-#include "lyra/help.hpp"
-#include "lyra/opt.hpp"
-#include "lyra/parser.hpp"
-#include "lyra/val.hpp"
+#include "arg.hpp"
+#include "args.hpp"
+#include "cli.hpp"
+#include "help.hpp"
+#include "opt.hpp"
+#include "parser.hpp"
+#include "val.hpp"
 
 #include <iostream>
 

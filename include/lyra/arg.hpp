@@ -7,8 +7,8 @@
 #ifndef LYRA_ARG_HPP
 #define LYRA_ARG_HPP
 
-#include "lyra/detail/print.hpp"
-#include "lyra/parser.hpp"
+#include "detail/print.hpp"
+#include "parser.hpp"
 
 #include <string>
 

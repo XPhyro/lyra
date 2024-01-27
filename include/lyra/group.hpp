@@ -6,8 +6,8 @@
 #ifndef LYRA_GROUP_HPP
 #define LYRA_GROUP_HPP
 
-#include "lyra/arguments.hpp"
-#include "lyra/detail/print.hpp"
+#include "arguments.hpp"
+#include "detail/print.hpp"
 #include <functional>
 
 namespace lyra {

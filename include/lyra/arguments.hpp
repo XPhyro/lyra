@@ -7,11 +7,11 @@
 #ifndef LYRA_ARGUMENTS_HPP
 #define LYRA_ARGUMENTS_HPP
 
-#include "lyra/detail/print.hpp"
-#include "lyra/detail/trait_utils.hpp"
-#include "lyra/exe_name.hpp"
-#include "lyra/parser.hpp"
-#include "lyra/printer.hpp"
+#include "detail/print.hpp"
+#include "detail/trait_utils.hpp"
+#include "exe_name.hpp"
+#include "parser.hpp"
+#include "printer.hpp"
 
 #include <functional>
 #include <type_traits>

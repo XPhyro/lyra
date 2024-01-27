@@ -6,7 +6,7 @@
 #ifndef LYRA_LITERAL_HPP
 #define LYRA_LITERAL_HPP
 
-#include "lyra/parser.hpp"
+#include "parser.hpp"
 #include <string>
 
 namespace lyra {

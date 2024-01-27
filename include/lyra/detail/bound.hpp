@@ -7,10 +7,10 @@
 #ifndef LYRA_DETAIL_BOUND_HPP
 #define LYRA_DETAIL_BOUND_HPP
 
-#include "lyra/detail/from_string.hpp"
-#include "lyra/detail/invoke_lambda.hpp"
-#include "lyra/detail/parse.hpp"
-#include "lyra/detail/unary_lambda_traits.hpp"
+#include "from_string.hpp"
+#include "invoke_lambda.hpp"
+#include "parse.hpp"
+#include "unary_lambda_traits.hpp"
 #include <string>
 
 namespace lyra { namespace detail {

@@ -8,17 +8,17 @@
 #ifndef LYRA_PARSER_HPP
 #define LYRA_PARSER_HPP
 
-#include "lyra/args.hpp"
-#include "lyra/detail/bound.hpp"
-#include "lyra/detail/choices.hpp"
-#include "lyra/detail/from_string.hpp"
-#include "lyra/detail/result.hpp"
-#include "lyra/detail/tokens.hpp"
-#include "lyra/detail/trait_utils.hpp"
-#include "lyra/option_style.hpp"
-#include "lyra/parser_result.hpp"
-#include "lyra/printer.hpp"
-#include "lyra/val.hpp"
+#include "args.hpp"
+#include "detail/bound.hpp"
+#include "detail/choices.hpp"
+#include "detail/from_string.hpp"
+#include "detail/result.hpp"
+#include "detail/tokens.hpp"
+#include "detail/trait_utils.hpp"
+#include "option_style.hpp"
+#include "parser_result.hpp"
+#include "printer.hpp"
+#include "val.hpp"
 
 #include <memory>
 #include <string>

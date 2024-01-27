@@ -6,7 +6,7 @@
 #ifndef LYRA_VAL_HPP
 #define LYRA_VAL_HPP
 
-#include "lyra/detail/bound.hpp"
+#include "detail/bound.hpp"
 #include <memory>
 
 namespace lyra {

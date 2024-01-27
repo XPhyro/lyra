@@ -6,8 +6,8 @@
 #ifndef LYRA_COMMAND_HPP
 #define LYRA_COMMAND_HPP
 
-#include "lyra/group.hpp"
-#include "lyra/literal.hpp"
+#include "group.hpp"
+#include "literal.hpp"
 #include <functional>
 #include <string>
 

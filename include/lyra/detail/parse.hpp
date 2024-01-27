@@ -7,8 +7,8 @@
 #ifndef LYRA_DETAIL_PARSE_HPP
 #define LYRA_DETAIL_PARSE_HPP
 
-#include "lyra/detail/from_string.hpp"
-#include "lyra/parser_result.hpp"
+#include "../parser_result.hpp"
+#include "from_string.hpp"
 
 #include <string>
 

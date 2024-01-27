@@ -7,7 +7,7 @@
 #ifndef LYRA_PARSER_RESULT_HPP
 #define LYRA_PARSER_RESULT_HPP
 
-#include "lyra/detail/result.hpp"
+#include "detail/result.hpp"
 #include <string>
 
 namespace lyra {
